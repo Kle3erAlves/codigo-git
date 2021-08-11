@@ -11,6 +11,7 @@ namespace Projeto_teste
             Console.WriteLine("Boa tarde");
             Console.WriteLine("Boa noite povo");
             Console.WriteLine("Ate logo");
+            Console.WriteLine("Tchau!!");
 
             Console.ReadLine();
         }
