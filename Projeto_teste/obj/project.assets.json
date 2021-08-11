@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\klebe\\source\\repos\\Projeto_teste\\Projeto_teste\\Projeto_teste.csproj",
+      "projectUniqueName": "C:\\Users\\klebe\\OneDrive\\PROJETOCSHARP\\codigo-git\\Projeto_teste\\Projeto_teste.csproj",
       "projectName": "Projeto_teste",
-      "projectPath": "C:\\Users\\klebe\\source\\repos\\Projeto_teste\\Projeto_teste\\Projeto_teste.csproj",
+      "projectPath": "C:\\Users\\klebe\\OneDrive\\PROJETOCSHARP\\codigo-git\\Projeto_teste\\Projeto_teste.csproj",
       "packagesPath": "C:\\Users\\klebe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klebe\\source\\repos\\Projeto_teste\\Projeto_teste\\obj\\",
+      "outputPath": "C:\\Users\\klebe\\OneDrive\\PROJETOCSHARP\\codigo-git\\Projeto_teste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\klebe\\AppData\\Roaming\\NuGet\\NuGet.Config",

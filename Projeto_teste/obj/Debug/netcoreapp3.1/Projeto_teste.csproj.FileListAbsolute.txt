@@ -11,3 +11,16 @@ C:\Users\klebe\source\repos\Projeto_teste\Projeto_teste\obj\Debug\netcoreapp3.1\
 C:\Users\klebe\source\repos\Projeto_teste\Projeto_teste\obj\Debug\netcoreapp3.1\Projeto_teste.dll
 C:\Users\klebe\source\repos\Projeto_teste\Projeto_teste\obj\Debug\netcoreapp3.1\Projeto_teste.pdb
 C:\Users\klebe\source\repos\Projeto_teste\Projeto_teste\obj\Debug\netcoreapp3.1\Projeto_teste.genruntimeconfig.cache
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\bin\Debug\netcoreapp3.1\Projeto_teste.exe
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\bin\Debug\netcoreapp3.1\Projeto_teste.deps.json
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\bin\Debug\netcoreapp3.1\Projeto_teste.runtimeconfig.json
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\bin\Debug\netcoreapp3.1\Projeto_teste.runtimeconfig.dev.json
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\bin\Debug\netcoreapp3.1\Projeto_teste.dll
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\bin\Debug\netcoreapp3.1\Projeto_teste.pdb
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\obj\Debug\netcoreapp3.1\Projeto_teste.csprojAssemblyReference.cache
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\obj\Debug\netcoreapp3.1\Projeto_teste.AssemblyInfoInputs.cache
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\obj\Debug\netcoreapp3.1\Projeto_teste.AssemblyInfo.cs
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\obj\Debug\netcoreapp3.1\Projeto_teste.csproj.CoreCompileInputs.cache
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\obj\Debug\netcoreapp3.1\Projeto_teste.dll
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\obj\Debug\netcoreapp3.1\Projeto_teste.pdb
+C:\Users\klebe\OneDrive\PROJETOCSHARP\codigo-git\Projeto_teste\obj\Debug\netcoreapp3.1\Projeto_teste.genruntimeconfig.cache
